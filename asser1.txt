@@ -1,0 +1,8 @@
+<!----index and html---->
+i try to use everything i learnd in this project.. first on the index i made it attractive scrolling and motion because this webpage need to attract the user 
+<!----css---->
+i used a simple styles on the css aligned as a flex display
+<!----javascript---->
+the most use to the js is to align the images and organize them when scrolling down or above
+<!----elements---->
+most of elements are pictures. i used also the forums and carousel 
